@@ -5,4 +5,4 @@ def is_even(num):
         print(num,'is odd')
 
 #is_even(4)
-is_even(3)
+is_even(4)
